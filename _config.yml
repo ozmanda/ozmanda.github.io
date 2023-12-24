@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/ozmanda.github.io"                          # the subpath of your site, e.g. /blog
+url: "https://ozmanda.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Julia Usher                                    # site's title
